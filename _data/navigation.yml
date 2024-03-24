@@ -12,6 +12,8 @@ main:
     url: /teaching/
   - title: "Bio"
     url: "/bio/"
+  - title: "FAQ"
+    url: "/faq/"
   - title: "Press"
     url: /press/
   - title: "Contact"
