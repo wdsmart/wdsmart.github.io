@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Bill Smart"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Roboticist.<br>Professor<br>Oregon State University<br>Amazon Scholar<b>Amazon Lab126"
+  bio              : "Roboticist; Professor at Oregon State University; Amazon Scholar at Amazon's Lab126."
   location         : "Corvallis, OR"
   email            : "bill.smart@oregonstate.edu"
   links:
