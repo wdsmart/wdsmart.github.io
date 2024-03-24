@@ -1,9 +1,7 @@
 ---
-values:
-    layout: single
-    author_profile: false
-    
-permalink: "contact"
+layout: single
+permalink: "/contact/"
+title: "Contact Information"
 ---
 
 This is the contact page.
