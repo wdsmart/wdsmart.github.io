@@ -1,11 +1,8 @@
 ---
-defaults:
-    - scope:
-        path: "/contact/"
-        type: pages
-    - values:
-        layout: single
-        author_profile: false
+values:
+    layout: single
+    author_profile: false
+    
 permalink: "contact"
 ---
 
