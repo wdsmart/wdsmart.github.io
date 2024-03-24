@@ -1,16 +1,18 @@
 # main links
 main:
+  - title: "Research"
+    url: /research/
+  - title: "Group"
+    url: /group/
   - title: "Publications"
-    url: /publications
+    url: /publications/
+  - title: Software
+    url: /software/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Bio"
+    url: "Bio"
+  - title: "Press"
+    url: /press/
   - title: "Contact"
-    url: /contact
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /contact/
