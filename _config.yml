@@ -118,7 +118,7 @@ author:
       url: "https://www.linkedin.com/in/wdsmart/"
 
     - label: "Office Phone"
-      icon: "fab fa-gw fa-phone"
+      icon: "fab fa-fw fa-phone"
       url: "tel: +1 (541) 737-0760"
 
     - label: "Email"
