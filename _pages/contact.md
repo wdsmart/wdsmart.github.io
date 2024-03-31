@@ -15,9 +15,9 @@ The best way to contact me is probably by [email](mailto:bill.smart@gmail.com). 
 **Fax:** [+1 (541) 737-2600](tel:5418380670)
 
 **Mailing Address:**
-Bill Smart
-Oregon State University
-204 Rogers Hall
-Corvallis, OR 97331
-United States
+Oregon State University<br>
+204 Rogers Hall<br>
+Corvallis, OR 97331<br>
+United States<br>
+
 
