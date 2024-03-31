@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Bill Smart"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "roboticist"
 name                     : "Bill Smart"
 description              : # ""
 url                      : https://wdsmart.github.io
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,18 +105,28 @@ analytics:
 # Site Author
 author:
   name             : "Bill Smart"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Roboticist; Professor at Oregon State University; Amazon Scholar at Amazon's Lab126."
-  location         : "Corvallis, OR"
+  avatar           : "/assets/images/headshots/bill.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Professor, Oregon State University <br> Amazon Scholar, Amazon Lab126"
+  location         : "Corvallis, OR, United States"
   email            : "bill.smart@oregonstate.edu"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/wdsmart"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wdsmart/"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-square"
+      url: "https://bsky.app/profile/justbill.bsky.social"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wdsmart"
+    
+    - label: "Personal Robotics Group"
+      icon: "fas fa-fw fa-users"
+      #url: ""
 
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/__justbill__"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: "mailto:bill.smart@oregonstate.edu"
@@ -129,9 +139,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -144,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      #url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -299,4 +306,5 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
