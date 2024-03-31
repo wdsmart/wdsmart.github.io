@@ -9,12 +9,8 @@ The best way to contact me is by [email](mailto:bill.smart@gmail.com).  My offic
 **Office Hours:** [Email me](mailto:bill.smart@oregonstate.edu)<br>
 
 **Email:** [bill.smart@oregonstate.edu](mailto:bill.smart@oregonstate.edu)<br>
-**Office Phone:** [+1 (541) 737-0670](tel:5418380670)<br>
-**Office Fax:** [+1 (541) 737-2600](tel:5418380670)<br>
-
-**LinkedIn:** [wdsmart](http://www.linkedin.com/in/wdsmart)<br>
-**Bluesky:** [justbill](https://bsky.app/profile/justbill.bsky.social)<br>
-**GitHub:** [wdsmart](https://github.com/wdsmart)
+**Office Phone:** +1 (541) 737-0670<br>
+**Office Fax:** +1 (541) 737-2600<br>
 
 **Mailing Address:**<br>
 School of Mechanical, Industrial, and Manufacturing Engineering<br>
