@@ -3,7 +3,7 @@ permalink: "/contact/"
 title: "Contact Information"
 ---
 
-The best way to contact me is by [email](mailto:bill.smart@gmail.com).  My office and lab space are both in [Graf Hall](https://www.google.com/maps/place/Graf+Hall,+1680+SW+Monroe+Ave,+Corvallis,+OR+97331) on the main OSU campus.  If I'm on campus, that's where I'm likely to be.
+The best way to contact me is by [email](mailto:bill.smart@oregonstate.edu).  My office and lab space are both in [Graf Hall](https://www.google.com/maps/place/Graf+Hall,+1680+SW+Monroe+Ave,+Corvallis,+OR+97331) on the main OSU campus.  If I'm on campus, that's where I'm likely to be.
 
 **Office:** [316 Graf Hall](https://www.google.com/maps/place/Graf+Hall,+1680+SW+Monroe+Ave,+Corvallis,+OR+97331)<br>
 **Office Hours:** [Email me](mailto:bill.smart@oregonstate.edu)<br>
