@@ -119,7 +119,7 @@ author:
       url: "https://www.linkedin.com/in/wdsmart/"
     - label: "Bluesky"
       icon: "fas fa-fw fa-square"
-      url: "https://bsky.app/profile/justbill.bsky.social"
+      #url: "https://bsky.app/profile/justbill.bsky.social"
 
     - label: "Google Scholar"
       #icon: "fab fa-fw fa-google-scholar"
