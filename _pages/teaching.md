@@ -3,7 +3,7 @@ permalink: "/teaching/"
 title: "Teaching"
 ---
 
-At Oregon State, I mostly teach classes in [Robotics](https://robotics.oregonstate.edu) and related areas, although I sometime teach classes in [Mechanical Engineering](https://mime.oregonstate.edu).  You can find the classes that I'm currently teaching in the [OSU class catalog](https://classes.oregonstate.edu/?keyword=William%20Smart).  Before coming to OSU in 2012, I was on the faculty at [Washington University in St. Louis](https://wustl.edu), where I mostly taught classes in [Computer Science](https://cse.wustl.edu).
+At Oregon State, I mostly teach classes in [Robotics](https://robotics.oregonstate.edu) and related areas, although I sometimes teach classes in [Mechanical Engineering](https://mime.oregonstate.edu).  You can find the classes that I'm currently teaching in the [OSU class catalog](https://classes.oregonstate.edu/?keyword=William%20Smart).  Before coming to OSU in 2012, I was on the faculty at [Washington University in St. Louis](https://wustl.edu), where I mostly taught classes in [Computer Science](https://cse.wustl.edu).
 
 ## Oregon State University
 
