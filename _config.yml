@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Bill Smart"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshots/bill.jpg"
   bio              : |-
     **Professor**, [Oregon State University](https://oregonstate.edu/)
     **Amazon Scholar**, [Amazon Lab126](https://www.linkedin.com/company/lab126/)
@@ -330,9 +330,18 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: double
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
