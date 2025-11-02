@@ -1,6 +1,12 @@
 # main links
 main:
-  - title: "Contact"
+  - title: 'Group'
+    url: /group/
+
+  - title: 'Teaching'
+    url: /teaching/
+
+  - title: 'Contact'
     url: /contact/
 
 #  - title: "Research"
