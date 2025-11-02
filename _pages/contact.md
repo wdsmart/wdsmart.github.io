@@ -12,12 +12,12 @@ The best way to contact me is by [email](mailto:bill.smart@oregonstate.edu).  My
 **Office Phone:** +1 (541) 737-0670  
 **Office Fax:** +1 (541) 737-2600  
 
-**Mailing Address:**  
+Mailing Address:
 : School of Mechanical, Industrial, and Manufacturing Engineering  
-Oregon State University  
-204 Rogers Hall  
-2000 SW Monroe Avenue  
-Corvallis, OR 97331  
-United States  
+  Oregon State University  
+  204 Rogers Hall  
+  2000 SW Monroe Avenue  
+  Corvallis, OR 97331  
+  United States  
 
 
